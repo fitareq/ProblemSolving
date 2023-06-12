@@ -2,6 +2,13 @@ package leetcode._169_majority_element
 
 import kotlin.math.floor
 
+class Solution2 {
+    fun majorityElement(nums: IntArray): Int {
+        nums.sort()
+
+        return nums[nums.size/2]
+    }
+}
 class Solution {
     fun majorityElement(nums: IntArray): Int {
         nums.sort()
