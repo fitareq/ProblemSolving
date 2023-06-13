@@ -1,6 +1,4 @@
-package leetcode._169_majority_element
-
-import kotlin.math.floor
+package leetcode._169_
 
 class Solution2 {
     fun majorityElement(nums: IntArray): Int {

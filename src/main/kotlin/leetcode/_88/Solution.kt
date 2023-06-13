@@ -1,4 +1,4 @@
-package leetcode._88_merge_sorted_array
+package leetcode._88
 
 class Solution {
     fun merge(nums1: IntArray, m: Int, nums2: IntArray, n: Int): Unit {

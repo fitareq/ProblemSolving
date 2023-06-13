@@ -1,4 +1,4 @@
-package leetcode._27_removed_element
+package leetcode._27
 
 class Solution {
     fun removeElement(nums: IntArray, `val`: Int): Int {

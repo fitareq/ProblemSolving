@@ -1,4 +1,4 @@
-package leetcode._26_remove_duplicates_from_sorted_array
+package leetcode._26
 
 class Solution {
     fun removeDuplicates(nums: IntArray): Int {
