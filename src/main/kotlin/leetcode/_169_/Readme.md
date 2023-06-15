@@ -18,11 +18,9 @@ Input: nums = [2,2,1,1,1,2,2]
 Output: 2
 ```
 **Constraints:**
-
 - `n == nums.length`
 - `1 <= n <= 5 * 10^4`
 - `-2^31 <= nums[i] <= 2^31 - 1`
-
 ## Approach
 
 The problem can be solved using the Boyer-Moore Voting Algorithm, which allows us to find the majority element in linear time and constant space.
